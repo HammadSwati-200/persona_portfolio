@@ -1,47 +1,16 @@
-<div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
-</div>
+# Hammad's Portfolio
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+Welcome to my portfolio! I'm a passionate web developer with experience in building responsive, user-friendly websites. I specialize in frontend development, UI/UX design, and web applications. This portfolio showcases my skills and projects, where I work with modern technologies like React, Next.js, Tailwind CSS, WordPress, and more.
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+## Technologies I Work With
 
-# Features
+- HTML, CSS, JavaScript, React.js, Next.js
+- WordPress, Tailwind CSS, Bootstrap
+- RESTful APIs, Git, GitHub
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+Feel free to check out my work and get in touch with me for collaborations or inquiries!
 
-# Getting Started Locally
+## Contact Me
 
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
-
-2. Move to the cloned directory
-
-   ```bash
-   cd portfolio
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   pnpm install
-   ```
-
-4. Start the local Server:
-
-   ```bash
-   pnpm dev
-   ```
-
-5. Open the [Config file](./src/data/resume.tsx) and make changes
-
-# License
-
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+- **Email**: [hammadkhan5330@gmail.com](mailto:hammadkhan5330@gmail.com)
+- **WhatsApp**: [Message me on WhatsApp](https://wa.me/+1234567890) (replace with your number)
