@@ -7,6 +7,7 @@ import type { Metadata } from "next";
 import { Inter as FontSans } from "next/font/google";
 import "./globals.css";
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import { Analytics } from "@vercel/analytics/next";
 
 const fontSans = FontSans({
   subsets: ["latin"],
@@ -67,6 +68,7 @@ export default function RootLayout({
             {children}
             <Navbar />
             <SpeedInsights />
+            <Analytics />
           </TooltipProvider>
         </ThemeProvider>
       </body>
