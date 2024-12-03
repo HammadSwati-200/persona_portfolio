@@ -65,6 +65,12 @@ export const DATA = {
         icon: Icons.email,
         navbar: true,
       },
+      WhatsApp: {
+        name: "WhatsApp",
+        url: "https://wa.me/+923245330368",
+        icon: Icons.whatsapp,
+        navbar: true,
+      },
     },
   },
 
